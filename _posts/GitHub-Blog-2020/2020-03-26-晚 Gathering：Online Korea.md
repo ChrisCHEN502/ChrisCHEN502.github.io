@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      2020-03-26-晚 Gathering：Online Korea
+title:      Thur. | 晚 - Gathering：Online Korea | 20200326
 subtitle:   "神正在问我们每一个人：\"你是谁？\""
 date:       2020-03-26
 author:     CC
