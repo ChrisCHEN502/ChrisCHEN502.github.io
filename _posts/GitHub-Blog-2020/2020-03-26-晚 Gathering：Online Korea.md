@@ -7,12 +7,12 @@ author:     CC
 header-img: img/post-bg-worship5.jpg
 catalog: true
 tags:
-    - Record
+    - Note
 ---
 
 ## 2020-03-26-晚 Gathering：Online Korea
 
-## Thur. | 晚 - Gathering：Online Korea | 20200326
+## Thur. | 晚 - [Gathering：Online Korea](https://youtu.be/1YXAS5MsNEY) | 20200326
 
 ## 前言
 
