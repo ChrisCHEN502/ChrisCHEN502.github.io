@@ -1,6 +1,7 @@
 {
     "files.exclude": {
         "**/*.plist": true
+        "**/*.vscode": true
     },
     "editor.fontFamily": "PingFang SC",
     "editor.fontSize": 16,
