@@ -7,7 +7,7 @@ author:     CC
 header-img: img/post-bg-worship4.jpg
 catalog: true
 tags:
-    - Note
+    - Note-20-04
 ---
 
 ## 2020-04-11-晚 Global Youth Gathering

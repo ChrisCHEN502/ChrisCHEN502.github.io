@@ -7,7 +7,7 @@ author:     CC
 header-img: img/post-bg-worship5.jpg
 catalog: true
 tags:
-    - Note
+    - Note-20-04
 ---
 
 ## 2020-04-07-晚 Passover: Holy Alignment
